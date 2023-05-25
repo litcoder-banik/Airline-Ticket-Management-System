@@ -1,0 +1,18 @@
+From :
+Dhaka
+To :
+Sylhet
+Departure Time :
+26/05
+Returning Time :
+27/05
+----------------------
+From :
+Sylhet
+To :
+Dhaka
+Departure Time :
+28/05
+Returning Time :
+29/05
+----------------------
